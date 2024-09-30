@@ -1,4 +1,4 @@
-# Digital Archives 2024
+# Summer School Digital Archives
 
 ### Slides
 
